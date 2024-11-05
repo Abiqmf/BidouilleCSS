@@ -1,8 +1,8 @@
-h1{
-    font-style: italic; /* pour la police */
+.h1{
+    font-style: oblique; /* pour la police */
     color: black; /* pour la couleur */
     font-size: 89px; */* taille de la police*/
-    background-color: aquamarine; /* le fond de du texte ( couleur) */ 
+background-color: .bgPink;/* le fond de du texte ( couleur) */ 
     text-decoration: double;
     
 }
